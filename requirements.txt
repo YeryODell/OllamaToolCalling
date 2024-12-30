@@ -1,0 +1,5 @@
+geopy
+langchain-core
+langchain-ollama
+timezonefinder
+pytz
